@@ -28,5 +28,4 @@ This project features a complete **Step-Down (Buck) Converter** design developed
 * **/Outputs:** Manufacturing-ready Gerber and NC Drill files.
 
 
-* Electrical and Electronics Engineer
-* [LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
